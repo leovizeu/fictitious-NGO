@@ -7,12 +7,16 @@ The objective of this is to build a full responsive site from scratch using some
 
 <h3>Objective:</h3>
 
-<p>The primary objective of "You Are the Hope!" is to establish a compassionate and supportive community for elders. We aim to offer a high standard of care, ensuring their physical, mental, and emotional well-being. Our focus is to create a space where seniors can lead a dignified life filled with joy, purpose, and social interaction.
+<p>The primary objective of "You Are the Hope!" is to establish a compassionate and supportive community for elders. We aim to offer a high standard of care, ensuring their physical, mental, and emotional well-being. 
+  Our focus is to create a space where seniors can lead a dignified life filled with joy, purpose, and social interaction.
 
   Facilities and Services:
 Residential Accommodation: We provide well-designed, comfortable living spaces equipped with modern amenities and safety features to ensure a secure and pleasant environment for our residents.
+
 Healthcare Services: Our skilled healthcare professionals offer round-the-clock care, regular health check-ups, medication management, and assistance with daily activities to ensure the well-being of our residents.
+
 Recreational Activities: We organize various engaging activities such as arts and crafts, music therapy, gardening, yoga, and other recreational programs tailored to suit the interests and abilities of our residents.
+
 Community Engagement: We encourage social interaction through group events, outings, celebrations, and opportunities for volunteering within and outside the facility to help residents stay connected and engaged with the community.
 
 Counseling and Support: Emotional support and counseling services are available for residents who may require assistance in coping with life changes, providing them with the necessary guidance and encouragement.</p>
@@ -42,7 +46,9 @@ Typography and Icons: Utilizing Materialize's typography and icon library helps 
 <h3>NGO's Web Platform Overview:</h3>
 
 <p>You are the Hope's web platform serves as a hub for accessing educational resources, courses, events, and collaborative opportunities related to technology. It provides the following functionalities:
+  
 Course Catalog: Offers a diverse range of technology courses, workshops, and educational resources accessible to the community.
+
 Community Forum: A platform for collaboration, discussions, and sharing of ideas among members and volunteers.
 Event Calendar: Displays upcoming tech-related events, seminars, and workshops organized or endorsed by EmpowerTech.
 Resource Library: A repository of articles, videos, and other materials to support learning and skill development.
