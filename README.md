@@ -41,7 +41,3 @@ Event Calendar: Displays upcoming tech-related events, seminars, and workshops o
 Resource Library: A repository of articles, videos, and other materials to support learning and skill development.
 Membership and Volunteer Opportunities: Allows individuals to sign up as members or volunteers to contribute to EmpowerTech's initiatives.
 Donation Portal: Provides a secure channel for donations to support the NGO's activities and programs.</p>
-
-Conclusion:
-
-You are the Hope, born from a FATEC course project, aims to make a meaningful impact by leveraging technology and education to empower underserved communities. The integration of the Materialize framework ensures a user-friendly, responsive, and visually appealing web platform, aligning with the NGO's mission of accessibility and inclusivity in the tech sector.
