@@ -43,15 +43,3 @@ CSS Transitions and Animations: Materialize includes pre-built CSS transitions a
 JavaScript Functionality: Materialize incorporates JavaScript components like modals, tabs, dropdowns, and sliders, adding functionality and interactivity to the platform.
 
 Typography and Icons: Utilizing Materialize's typography and icon library helps maintain consistency and visual appeal throughout the website.</p>
-
-<h3>NGO's Web Platform Overview:</h3>
-
-<p>You are the Hope's web platform serves as a hub for accessing educational resources, courses, events, and collaborative opportunities related to technology. It provides the following functionalities:
-  
-Course Catalog: Offers a diverse range of technology courses, workshops, and educational resources accessible to the community.
-
-Community Forum: A platform for collaboration, discussions, and sharing of ideas among members and volunteers.
-Event Calendar: Displays upcoming tech-related events, seminars, and workshops organized or endorsed by EmpowerTech.
-Resource Library: A repository of articles, videos, and other materials to support learning and skill development.
-Membership and Volunteer Opportunities: Allows individuals to sign up as members or volunteers to contribute to EmpowerTech's initiatives.
-Donation Portal: Provides a secure channel for donations to support the NGO's activities and programs.</p>
