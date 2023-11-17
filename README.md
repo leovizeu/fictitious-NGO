@@ -10,7 +10,7 @@ The objective of this is to build a full responsive site from scratch using some
 <p>The primary objective of "You Are the Hope!" is to establish a compassionate and supportive community for elders. We aim to offer a high standard of care, ensuring their physical, mental, and emotional well-being. 
 Our focus is to create a space where seniors can lead a dignified life filled with joy, purpose, and social interaction.</p>
 
-<h3>Facilities and Services:</h3>
+<h4>Facilities and Services:</h4>
 
 <p>Residential Accommodation: We provide well-designed, comfortable living spaces equipped with modern amenities and safety features to ensure a secure and pleasant environment for our residents.
 
@@ -22,13 +22,13 @@ Community Engagement: We encourage social interaction through group events, outi
 
 Counseling and Support: Emotional support and counseling services are available for residents who may require assistance in coping with life changes, providing them with the necessary guidance and encouragement.</p>
 
-<h3>Conclusion:</h3>
+<h4>Conclusion:</h4>
 
 <p>At "You Are the Hope!" NGO, we believe that every individual deserves a life of dignity, respect, and joy, especially during their later years. We strive to be the beacon of hope and comfort for seniors, fostering a sense of belonging and purpose within our community.
 
 Thank you for your interest in our organization. Together, we can make a difference in the lives of our elders and create a world where everyone can age gracefully and happily.</p>
 
-<h3>Materialize Framework Integration:</h3>
+<h2>Materialize Framework Integration:</h2>
 
 <p>You are the Hope's web platform is developed using the Materialize framework. Materialize is a modern responsive CSS framework based on Google's Material Design. Its components and features allow for the creation of a sleek, user-friendly, and responsive interface.</p>
 
