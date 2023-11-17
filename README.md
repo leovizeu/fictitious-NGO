@@ -8,10 +8,11 @@ The objective of this is to build a full responsive site from scratch using some
 <h3>Objective:</h3>
 
 <p>The primary objective of "You Are the Hope!" is to establish a compassionate and supportive community for elders. We aim to offer a high standard of care, ensuring their physical, mental, and emotional well-being. 
-  Our focus is to create a space where seniors can lead a dignified life filled with joy, purpose, and social interaction.
+Our focus is to create a space where seniors can lead a dignified life filled with joy, purpose, and social interaction.</p>
 
-  Facilities and Services:
-Residential Accommodation: We provide well-designed, comfortable living spaces equipped with modern amenities and safety features to ensure a secure and pleasant environment for our residents.
+<h3>Facilities and Services:</h3>
+
+<p>Residential Accommodation: We provide well-designed, comfortable living spaces equipped with modern amenities and safety features to ensure a secure and pleasant environment for our residents.
 
 Healthcare Services: Our skilled healthcare professionals offer round-the-clock care, regular health check-ups, medication management, and assistance with daily activities to ensure the well-being of our residents.
 
